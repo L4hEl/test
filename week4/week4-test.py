@@ -1,2 +1,2 @@
 
-print('Hello world\n')
+print('4080ti-test\n')
